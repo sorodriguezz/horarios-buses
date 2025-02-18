@@ -118,8 +118,8 @@
         {
           "time": "08:00",
           "from": "chillán",
-          "to": "quirihue",
-          "additional": "ninhue/cobquecura/buchupureo",
+          "to": "buchupureo",
+          "additional": "ninhue/quirihue/cobquecura",
           "company": "via itata"
         },
         {
@@ -153,8 +153,8 @@
         {
           "time": "14:30",
           "from": "chillán",
-          "to": "quirihue",
-          "additional": "ninhue/cobquecura",
+          "to": "cobquecura",
+          "additional": "ninhue/quirihue",
           "company": "via itata"
         },
         {
@@ -380,6 +380,482 @@
           "to": "chillán",
           "additional": "",
           "company": "jara e hijos"
+        },
+        {
+          "time": "07:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "08:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "12:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "13:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "09:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "10:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "17:20",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "17:40",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "06:40",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "08:10",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "09:35",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "10:40",
+          "from": "concepción",
+          "to": "buchupureo",
+          "additional": "coelemu/quirihue/cobquecura",
+          "company": "maga bus"
+        },
+        {
+          "time": "14:30",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "16:30",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "18:30",
+          "from": "concepción",
+          "to": "buchupureo",
+          "additional": "coelemu/quirihue/cobquecura",
+          "company": "maga bus"
+        },
+        {
+          "time": "06:40",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "08:40",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "11:20",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "13:00",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "16:10",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "17:10",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "19:00",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "06:30",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "09:00",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "ninhue/quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "12:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "12:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "13:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "13:30",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "ninhue/quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "15:00",
+          "from": "chillán",
+          "to": "cobquecura",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "15:30",
+          "from": "chillán",
+          "to": "cobquecura",
+          "additional": "ninhue/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "16:00",
+          "from": "chillán",
+          "to": "coelemu",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "16:30",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "ninhue/quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "19:00",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "19:20",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "08:00",
+          "from": "quirihue",
+          "to": "buchupureo",
+          "additional": "cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "11:00",
+          "from": "quirihue",
+          "to": "buchupureo",
+          "additional": "cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "15:00",
+          "from": "quirihue",
+          "to": "buchupureo",
+          "additional": "cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "16:30",
+          "from": "quirihue",
+          "to": "cobquecura",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "17:20",
+          "from": "quirihue",
+          "to": "cobquecura",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "18:15",
+          "from": "quirihue",
+          "to": "buchupureo",
+          "additional": "cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "20:15",
+          "from": "quirihue",
+          "to": "buchupureo",
+          "additional": "cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "07:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "07:25",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "07:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "08:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "08:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "09:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "09:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "10:40",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "13:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "15:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "16:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "16:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "17:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "18:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "06:10",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "09:30",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "07:30",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "08:20",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "13:30",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "16:30",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "06:30",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "08:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "08:40",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue/ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "10:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue/ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "14:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "16:45",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "18:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
         }
       ]
     },
@@ -501,8 +977,8 @@
         {
           "time": "08:00",
           "from": "chillán",
-          "to": "quirihue",
-          "additional": "ninhue/cobquecura/buchupureo",
+          "to": "buchupureo",
+          "additional": "ninhue/quirihue/cobquecura",
           "company": "via itata"
         },
         {
@@ -536,8 +1012,8 @@
         {
           "time": "14:30",
           "from": "chillán",
-          "to": "quirihue",
-          "additional": "ninhue/cobquecura",
+          "to": "cobquecura",
+          "additional": "ninhue/quirihue",
           "company": "via itata"
         },
         {
@@ -763,6 +1239,482 @@
           "to": "chillán",
           "additional": "",
           "company": "jara e hijos"
+        },
+        {
+          "time": "07:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "08:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "12:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "13:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "09:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "10:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "17:20",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "17:40",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "06:40",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "08:10",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "09:35",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "10:40",
+          "from": "concepción",
+          "to": "buchupureo",
+          "additional": "coelemu/quirihue/cobquecura",
+          "company": "maga bus"
+        },
+        {
+          "time": "14:30",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "16:30",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "18:30",
+          "from": "concepción",
+          "to": "buchupureo",
+          "additional": "coelemu/quirihue/cobquecura",
+          "company": "maga bus"
+        },
+        {
+          "time": "06:40",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "08:40",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "11:20",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "13:00",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "16:10",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "17:10",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "19:00",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "06:30",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "09:00",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "ninhue/quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "12:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "12:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "13:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "13:30",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "ninhue/quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "15:00",
+          "from": "chillán",
+          "to": "cobquecura",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "15:30",
+          "from": "chillán",
+          "to": "cobquecura",
+          "additional": "ninhue/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "16:00",
+          "from": "chillán",
+          "to": "coelemu",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "16:30",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "ninhue/quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "19:00",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "19:20",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "08:00",
+          "from": "quirihue",
+          "to": "buchupureo",
+          "additional": "cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "11:00",
+          "from": "quirihue",
+          "to": "buchupureo",
+          "additional": "cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "15:00",
+          "from": "quirihue",
+          "to": "buchupureo",
+          "additional": "cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "16:30",
+          "from": "quirihue",
+          "to": "cobquecura",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "17:20",
+          "from": "quirihue",
+          "to": "cobquecura",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "18:15",
+          "from": "quirihue",
+          "to": "buchupureo",
+          "additional": "cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "20:15",
+          "from": "quirihue",
+          "to": "buchupureo",
+          "additional": "cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "07:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "07:25",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "07:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "08:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "08:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "09:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "09:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "10:40",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "13:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "15:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "16:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "16:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "17:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "18:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "06:10",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "09:30",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "07:30",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "08:20",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "13:30",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "16:30",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "06:30",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "08:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "08:40",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue/ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "10:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue/ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "14:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "16:45",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "18:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
         }
       ]
     },
@@ -884,8 +1836,8 @@
         {
           "time": "08:00",
           "from": "chillán",
-          "to": "quirihue",
-          "additional": "ninhue/cobquecura/buchupureo",
+          "to": "buchupureo",
+          "additional": "ninhue/quirihue/cobquecura",
           "company": "via itata"
         },
         {
@@ -919,8 +1871,8 @@
         {
           "time": "14:30",
           "from": "chillán",
-          "to": "quirihue",
-          "additional": "ninhue/cobquecura",
+          "to": "cobquecura",
+          "additional": "ninhue/quirihue",
           "company": "via itata"
         },
         {
@@ -1146,6 +2098,482 @@
           "to": "chillán",
           "additional": "",
           "company": "jara e hijos"
+        },
+        {
+          "time": "07:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "08:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "12:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "13:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "09:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "10:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "17:20",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "17:40",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "06:40",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "08:10",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "09:35",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "10:40",
+          "from": "concepción",
+          "to": "buchupureo",
+          "additional": "coelemu/quirihue/cobquecura",
+          "company": "maga bus"
+        },
+        {
+          "time": "14:30",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "16:30",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "18:30",
+          "from": "concepción",
+          "to": "buchupureo",
+          "additional": "coelemu/quirihue/cobquecura",
+          "company": "maga bus"
+        },
+        {
+          "time": "06:40",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "08:40",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "11:20",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "13:00",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "16:10",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "17:10",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "19:00",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "06:30",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "09:00",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "ninhue/quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "12:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "12:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "13:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "13:30",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "ninhue/quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "15:00",
+          "from": "chillán",
+          "to": "cobquecura",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "15:30",
+          "from": "chillán",
+          "to": "cobquecura",
+          "additional": "ninhue/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "16:00",
+          "from": "chillán",
+          "to": "coelemu",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "16:30",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "ninhue/quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "19:00",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "19:20",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "08:00",
+          "from": "quirihue",
+          "to": "buchupureo",
+          "additional": "cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "11:00",
+          "from": "quirihue",
+          "to": "buchupureo",
+          "additional": "cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "15:00",
+          "from": "quirihue",
+          "to": "buchupureo",
+          "additional": "cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "16:30",
+          "from": "quirihue",
+          "to": "cobquecura",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "17:20",
+          "from": "quirihue",
+          "to": "cobquecura",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "18:15",
+          "from": "quirihue",
+          "to": "buchupureo",
+          "additional": "cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "20:15",
+          "from": "quirihue",
+          "to": "buchupureo",
+          "additional": "cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "07:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "07:25",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "07:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "08:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "08:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "09:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "09:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "10:40",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "13:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "15:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "16:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "16:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "17:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "18:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "06:10",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "09:30",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "07:30",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "08:20",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "13:30",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "16:30",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "06:30",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "08:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "08:40",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue/ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "10:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue/ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "14:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "16:45",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "18:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
         }
       ]
     },
@@ -1267,8 +2695,8 @@
         {
           "time": "08:00",
           "from": "chillán",
-          "to": "quirihue",
-          "additional": "ninhue/cobquecura/buchupureo",
+          "to": "buchupureo",
+          "additional": "ninhue/quirihue/cobquecura",
           "company": "via itata"
         },
         {
@@ -1302,8 +2730,8 @@
         {
           "time": "14:30",
           "from": "chillán",
-          "to": "quirihue",
-          "additional": "ninhue/cobquecura",
+          "to": "cobquecura",
+          "additional": "ninhue/quirihue",
           "company": "via itata"
         },
         {
@@ -1529,6 +2957,482 @@
           "to": "chillán",
           "additional": "",
           "company": "jara e hijos"
+        },
+        {
+          "time": "07:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "08:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "12:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "13:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "09:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "10:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "17:20",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "17:40",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "06:40",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "08:10",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "09:35",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "10:40",
+          "from": "concepción",
+          "to": "buchupureo",
+          "additional": "coelemu/quirihue/cobquecura",
+          "company": "maga bus"
+        },
+        {
+          "time": "14:30",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "16:30",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "18:30",
+          "from": "concepción",
+          "to": "buchupureo",
+          "additional": "coelemu/quirihue/cobquecura",
+          "company": "maga bus"
+        },
+        {
+          "time": "06:40",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "08:40",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "11:20",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "13:00",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "16:10",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "17:10",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "19:00",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "06:30",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "09:00",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "ninhue/quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "12:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "12:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "13:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "13:30",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "ninhue/quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "15:00",
+          "from": "chillán",
+          "to": "cobquecura",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "15:30",
+          "from": "chillán",
+          "to": "cobquecura",
+          "additional": "ninhue/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "16:00",
+          "from": "chillán",
+          "to": "coelemu",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "16:30",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "ninhue/quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "19:00",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "19:20",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "08:00",
+          "from": "quirihue",
+          "to": "buchupureo",
+          "additional": "cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "11:00",
+          "from": "quirihue",
+          "to": "buchupureo",
+          "additional": "cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "15:00",
+          "from": "quirihue",
+          "to": "buchupureo",
+          "additional": "cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "16:30",
+          "from": "quirihue",
+          "to": "cobquecura",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "17:20",
+          "from": "quirihue",
+          "to": "cobquecura",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "18:15",
+          "from": "quirihue",
+          "to": "buchupureo",
+          "additional": "cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "20:15",
+          "from": "quirihue",
+          "to": "buchupureo",
+          "additional": "cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "07:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "07:25",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "07:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "08:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "08:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "09:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "09:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "10:40",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "13:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "15:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "16:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "16:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "17:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "18:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "06:10",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "09:30",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "07:30",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "08:20",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "13:30",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "16:30",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "06:30",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "08:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "08:40",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue/ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "10:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue/ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "14:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "16:45",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "18:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
         }
       ]
     },
@@ -1650,8 +3554,8 @@
         {
           "time": "08:00",
           "from": "chillán",
-          "to": "quirihue",
-          "additional": "ninhue/cobquecura/buchupureo",
+          "to": "buchupureo",
+          "additional": "ninhue/quirihue/cobquecura",
           "company": "via itata"
         },
         {
@@ -1685,8 +3589,8 @@
         {
           "time": "14:30",
           "from": "chillán",
-          "to": "quirihue",
-          "additional": "ninhue/cobquecura",
+          "to": "cobquecura",
+          "additional": "ninhue/quirihue",
           "company": "via itata"
         },
         {
@@ -1912,6 +3816,482 @@
           "to": "chillán",
           "additional": "",
           "company": "jara e hijos"
+        },
+        {
+          "time": "07:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "08:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "12:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "13:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "09:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "10:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "17:20",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "17:40",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "06:40",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "08:10",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "09:35",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "10:40",
+          "from": "concepción",
+          "to": "buchupureo",
+          "additional": "coelemu/quirihue/cobquecura",
+          "company": "maga bus"
+        },
+        {
+          "time": "14:30",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "16:30",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "18:30",
+          "from": "concepción",
+          "to": "buchupureo",
+          "additional": "coelemu/quirihue/cobquecura",
+          "company": "maga bus"
+        },
+        {
+          "time": "06:40",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "08:40",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "11:20",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "13:00",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "16:10",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "17:10",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "19:00",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "06:30",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "09:00",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "ninhue/quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "12:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "12:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "13:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "13:30",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "ninhue/quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "15:00",
+          "from": "chillán",
+          "to": "cobquecura",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "15:30",
+          "from": "chillán",
+          "to": "cobquecura",
+          "additional": "ninhue/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "16:00",
+          "from": "chillán",
+          "to": "coelemu",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "16:30",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "ninhue/quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "19:00",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "19:20",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "08:00",
+          "from": "quirihue",
+          "to": "buchupureo",
+          "additional": "cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "11:00",
+          "from": "quirihue",
+          "to": "buchupureo",
+          "additional": "cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "15:00",
+          "from": "quirihue",
+          "to": "buchupureo",
+          "additional": "cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "16:30",
+          "from": "quirihue",
+          "to": "cobquecura",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "17:20",
+          "from": "quirihue",
+          "to": "cobquecura",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "18:15",
+          "from": "quirihue",
+          "to": "buchupureo",
+          "additional": "cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "20:15",
+          "from": "quirihue",
+          "to": "buchupureo",
+          "additional": "cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "07:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "07:25",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "07:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "08:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "08:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "09:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "09:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "10:40",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "13:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "15:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "16:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "16:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "17:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "18:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "06:10",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "09:30",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "07:30",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "08:20",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "13:30",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "16:30",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "cobquecura/quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "06:30",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "08:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "08:40",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue/ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "10:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue/ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "14:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "16:45",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "18:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
         }
       ]
     },
@@ -2155,6 +4535,272 @@
           "to": "chillán",
           "additional": "",
           "company": "jara e hijos"
+        },
+        {
+          "time": "09:40",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "07:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "12:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "turis rey"
+        },
+        {
+          "time": "08:30",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "09:35",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "10:40",
+          "from": "concepción",
+          "to": "buchupureo",
+          "additional": "coelemu/quirihue/cobquecura",
+          "company": "maga bus"
+        },
+        {
+          "time": "14:30",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "18:30",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "11:20",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "16:10",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "17:10",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "06:40",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "11:20",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "13:00",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "16:10",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "17:10",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "06:30",
+          "from": "chillán",
+          "to": "cobquecura",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "09:00",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "ninhue/quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "12:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "13:30",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "ninhue/quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "15:00",
+          "from": "chillán",
+          "to": "cobquecura",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "15:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "16:30",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "ninhue/quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "19:15",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "07:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "08:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "09:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "10:40",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "15:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "14:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "17:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "18:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "06:30",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "08:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "10:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "13:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "16:45",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "18:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
         }
       ]
     },
@@ -2244,6 +4890,97 @@
           "to": "quirihue",
           "additional": "entra a ninhue",
           "company": "via itata"
+        },
+        {
+          "time": "09:00",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "10:40",
+          "from": "concepción",
+          "to": "buchupureo",
+          "additional": "coelemu/quirihue/cobquecura",
+          "company": "maga bus"
+        },
+        {
+          "time": "14:30",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "18:30",
+          "from": "concepción",
+          "to": "buchupureo",
+          "additional": "coelemu/quirihue/cobquecura",
+          "company": "maga bus"
+        },
+        {
+          "time": "11:20",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "16:10",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "17:10",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "19:00",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "16:30",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "16:45",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "17:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "18:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "18:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
         }
       ]
     },
@@ -2333,6 +5070,97 @@
           "to": "quirihue",
           "additional": "entra a ninhue",
           "company": "via itata"
+        },
+        {
+          "time": "09:00",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "10:40",
+          "from": "concepción",
+          "to": "buchupureo",
+          "additional": "coelemu/quirihue/cobquecura",
+          "company": "maga bus"
+        },
+        {
+          "time": "14:30",
+          "from": "concepción",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "18:30",
+          "from": "concepción",
+          "to": "buchupureo",
+          "additional": "coelemu/quirihue/cobquecura",
+          "company": "maga bus"
+        },
+        {
+          "time": "11:20",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "16:10",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "17:10",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "19:00",
+          "from": "quirihue",
+          "to": "concepción",
+          "additional": "coelemu",
+          "company": "maga bus"
+        },
+        {
+          "time": "16:30",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "16:45",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "17:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "18:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "18:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
         }
       ]
     }
