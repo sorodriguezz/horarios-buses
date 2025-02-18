@@ -1,154 +1,1353 @@
 {
-    "schedules": [
+  "schedules": [
+    {
+      "day": "lunes",
+      "schedule": [
         {
-            "day": "lunes",
-            "schedule": [
-                {
-                    "time": "06:00",
-                    "from": "quirihue",
-                    "to": "chillán",
-                    "additional": "",
-                    "company": "via itata"
-                },
-                {
-                    "time": "06:10",
-                    "from": "quirihue",
-                    "to": "chillán",
-                    "additional": "entra a ninhue",
-                    "company": "via itata"
-                },
-                {
-                    "time": "06:30",
-                    "from": "quirihue",
-                    "to": "chillán",
-                    "additional": "entra a ninhue",
-                    "company": "via itata"
-                }
-            ]
+          "time": "06:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
         },
         {
-            "day": "martes",
-            "schedule": [
-                {
-                    "time": "06:00",
-                    "from": "quirihue",
-                    "to": "chillán",
-                    "additional": "",
-                    "company": "via itata"
-                },
-                {
-                    "time": "06:10",
-                    "from": "quirihue",
-                    "to": "chillán",
-                    "additional": "entra a quirihue",
-                    "company": "via itata"
-                }
-            ]
+          "time": "06:10",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
         },
         {
-            "day": "miércoles",
-            "schedule": [
-                {
-                    "time": "06:00",
-                    "from": "quirihue",
-                    "to": "chillán",
-                    "additional": "",
-                    "company": "via itata"
-                },
-                {
-                    "time": "06:10",
-                    "from": "quirihue",
-                    "to": "chillán",
-                    "additional": "entra a quirihue",
-                    "company": "via itata"
-                }
-            ]
+          "time": "06:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
         },
         {
-            "day": "jueves",
-            "schedule": [
-                {
-                    "time": "06:00",
-                    "from": "quirihue",
-                    "to": "chillán",
-                    "additional": "",
-                    "company": "via itata"
-                },
-                {
-                    "time": "06:10",
-                    "from": "quirihue",
-                    "to": "chillán",
-                    "additional": "entra a quirihue",
-                    "company": "via itata"
-                }
-            ]
+          "time": "06:45",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
         },
         {
-            "day": "viernes",
-            "schedule": [
-                {
-                    "time": "06:00",
-                    "from": "quirihue",
-                    "to": "chillán",
-                    "additional": "",
-                    "company": "via itata"
-                },
-                {
-                    "time": "06:10",
-                    "from": "quirihue",
-                    "to": "chillán",
-                    "additional": "entra a quirihue",
-                    "company": "via itata"
-                }
-            ]
+          "time": "07:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
         },
         {
-            "day": "sábado",
-            "schedule": [
-                {
-                    "time": "06:00",
-                    "ruta": "Centro - Norte",
-                    "company": "TransporteMX"
-                }
-            ]
+          "time": "10:20",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
         },
         {
-            "day": "domingo",
-            "schedule": [
-                {
-                    "time": "06:00",
-                    "from": "quirihue",
-                    "to": "chillán",
-                    "additional": "",
-                    "company": "via itata"
-                },
-                {
-                    "time": "06:10",
-                    "from": "quirihue",
-                    "to": "chillán",
-                    "additional": "entra a quirihue",
-                    "company": "via itata"
-                }
-            ]
+          "time": "11:20",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
         },
         {
-            "day": "festivos",
-            "schedule": [
-                {
-                    "time": "06:00",
-                    "from": "quirihue",
-                    "to": "chillán",
-                    "additional": "",
-                    "company": "via itata"
-                }
-            ]
+          "time": "12:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "12:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "14:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "15:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "17:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "18:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "20:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "07:10",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "07:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "08:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "ninhue/cobquecura/buchupureo",
+          "company": "via itata"
+        },
+        {
+          "time": "10:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "11:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "cobquecura",
+          "company": "via itata"
+        },
+        {
+          "time": "11:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "13:59",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "14:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "ninhue/cobquecura",
+          "company": "via itata"
+        },
+        {
+          "time": "17:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "17:55",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "cobquecura",
+          "company": "via itata"
+        },
+        {
+          "time": "18:20",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "18:40",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "19:45",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "20:10",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
         }
-    ],
-    "holidaysDays": [
+      ]
+    },
+    {
+      "day": "martes",
+      "schedule": [
         {
-            "day": "01",
-            "month": "enero",
-            "name": "año nuevo"
+          "time": "06:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "06:10",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "06:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "06:45",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "07:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "10:20",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "11:20",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "12:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "12:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "14:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "15:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "17:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "18:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "20:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "07:10",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "07:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "08:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "ninhue/cobquecura/buchupureo",
+          "company": "via itata"
+        },
+        {
+          "time": "10:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "11:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "cobquecura",
+          "company": "via itata"
+        },
+        {
+          "time": "11:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "13:59",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "14:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "ninhue/cobquecura",
+          "company": "via itata"
+        },
+        {
+          "time": "17:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "17:55",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "cobquecura",
+          "company": "via itata"
+        },
+        {
+          "time": "18:20",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "18:40",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "19:45",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "20:10",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
         }
-    ]
+      ]
+    },
+    {
+      "day": "miércoles",
+      "schedule": [
+        {
+          "time": "06:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "06:10",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "06:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "06:45",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "07:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "10:20",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "11:20",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "12:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "12:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "14:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "15:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "17:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "18:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "20:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "07:10",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "07:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "08:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "ninhue/cobquecura/buchupureo",
+          "company": "via itata"
+        },
+        {
+          "time": "10:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "11:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "cobquecura",
+          "company": "via itata"
+        },
+        {
+          "time": "11:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "13:59",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "14:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "ninhue/cobquecura",
+          "company": "via itata"
+        },
+        {
+          "time": "17:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "17:55",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "cobquecura",
+          "company": "via itata"
+        },
+        {
+          "time": "18:20",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "18:40",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "19:45",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "20:10",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        }
+      ]
+    },
+    {
+      "day": "jueves",
+      "schedule": [
+        {
+          "time": "06:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "06:10",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "06:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "06:45",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "07:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "10:20",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "11:20",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "12:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "12:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "14:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "15:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "17:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "18:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "20:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "07:10",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "07:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "08:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "ninhue/cobquecura/buchupureo",
+          "company": "via itata"
+        },
+        {
+          "time": "10:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "11:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "cobquecura",
+          "company": "via itata"
+        },
+        {
+          "time": "11:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "13:59",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "14:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "ninhue/cobquecura",
+          "company": "via itata"
+        },
+        {
+          "time": "17:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "17:55",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "cobquecura",
+          "company": "via itata"
+        },
+        {
+          "time": "18:20",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "18:40",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "19:45",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "20:10",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        }
+      ]
+    },
+    {
+      "day": "viernes",
+      "schedule": [
+        {
+          "time": "06:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "06:10",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "06:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "06:45",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "07:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "10:20",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "11:20",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "12:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "12:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "14:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "15:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "17:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "18:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "20:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "07:10",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "07:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "08:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "ninhue/cobquecura/buchupureo",
+          "company": "via itata"
+        },
+        {
+          "time": "10:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "11:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "cobquecura",
+          "company": "via itata"
+        },
+        {
+          "time": "11:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "13:59",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "14:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "ninhue/cobquecura",
+          "company": "via itata"
+        },
+        {
+          "time": "17:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "17:55",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "cobquecura",
+          "company": "via itata"
+        },
+        {
+          "time": "18:20",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "18:40",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "19:45",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "20:10",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        }
+      ]
+    },
+    {
+      "day": "sábado",
+      "schedule": [
+        {
+          "time": "06:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "06:45",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "07:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "10:20",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "11:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "12:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "14:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "15:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "17:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "18:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "20:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "07:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "08:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "ninhue/cobquecura",
+          "company": "via itata"
+        },
+        {
+          "time": "10:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "11:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "cobquecura",
+          "company": "via itata"
+        },
+        {
+          "time": "11:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "13:59",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "14:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "ninhue/cobquecura",
+          "company": "via itata"
+        },
+        {
+          "time": "17:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "17:55",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "cobquecura",
+          "company": "via itata"
+        },
+        {
+          "time": "18:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "19:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "via itata"
+        }
+      ]
+    },
+    {
+      "day": "domingo",
+      "schedule": [
+        {
+          "time": "08:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "10:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "12:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "14:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "17:20",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "18:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "09:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "ninhue/cobquecura",
+          "company": "via itata"
+        },
+        {
+          "time": "11:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "12:45",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "14:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "17:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "19:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        }
+      ]
+    },
+    {
+      "day": "festivos",
+      "schedule": [
+        {
+          "time": "08:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "10:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "12:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "14:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "17:20",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "18:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "via itata"
+        },
+        {
+          "time": "09:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "ninhue/cobquecura",
+          "company": "via itata"
+        },
+        {
+          "time": "11:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "12:45",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "14:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "17:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        },
+        {
+          "time": "19:00",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "via itata"
+        }
+      ]
+    }
+  ],
+  "holidaysDays": [
+    {
+      "day": "01",
+      "month": "enero",
+      "name": "año nuevo"
+    }
+  ]
 }
