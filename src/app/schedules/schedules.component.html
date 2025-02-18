@@ -2,7 +2,9 @@
   <a [routerLink]="['/']" class="btn btn-dark">
     Volver a la página principal
   </a>
-  <h1 class="m-3 text-center">{{ scheduleDay.day | uppercase }}</h1>
+  <div class="card mt-3">
+    <h1 class="text-center">{{ scheduleDay.day | uppercase }}</h1>
+  </div>
 </div>
 
 @if(data.schedules.length){
@@ -11,20 +13,14 @@
     @for (day of scheduleDay.schedule; track $index) {
     <div class="col-sm-6 col-md-4 col-lg-3 mb-3">
       <div class="card">
-        <div class="card-header text-center">
+        <div class="card-header text-center bg-dark text-white">
           {{ day.time }}
         </div>
         <div class="card-body">
-          <h5 class="text-center">
-            {{ day.from | titlecase }} ➟ {{ day.to | titlecase }}
-          </h5>
-          <p class="card-text">
-            <strong>Empresa: </strong>{{ day.company | titlecase }}
+          <p class="h2 text-center">{{ day.from | titlecase }} ➟ {{ day.to | titlecase }}</p>
+          <p class="text-center text-muted">{{ day.company | titlecase }}
           </p>
-          <p class="card-text">
-            <strong>Adicional: </strong
-            ><span *ngIf="day.additional">{{ day.additional }}</span>
-          </p>
+          <span class="text-uppercase text-muted">{{ day.additional || '-' }}</span>
         </div>
       </div>
     </div>

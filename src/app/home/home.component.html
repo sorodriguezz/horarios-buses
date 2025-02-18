@@ -1,22 +1,20 @@
-<h1 class="text-center m-3 mb-4">Horario buses terminal Quirihue</h1>
+<div class="container-fluid mt-2">
+  <div class="card">
+    <h1 class="text-center m-3 mb-4">Horario buses terminal Quirihue</h1>
+  </div>
+</div>
 
 @if(data.schedules.length){
-<div class="container-fluid mt-3">
+<div class="container-fluid mt-3 mb-5">
   <div class="row">
     @for (schedule of data.schedules; track $index) {
     <div class="col-sm-6 col-md-4 col-lg-3 mb-3">
-      <div
-        class="card"
-        [ngClass]="schedule.day == 'festivos' ? 'border border-danger' : ''"
-      >
-        <div class="card-header text-center">
-          {{ schedule.day | titlecase }}
+      <div class="card" [ngClass]="schedule.day == 'festivos' ? 'border border-danger' : ''">
+        <div class="card-header text-center bg-dark text-white">
+          <strong>{{ schedule.day | titlecase }}</strong>
         </div>
         <div class="card-body text-center">
-          <a
-            [routerLink]="['/schedule', schedule.day.toLowerCase()]"
-            class="btn btn-dark"
-          >
+          <a [routerLink]="['/schedule', schedule.day.toLowerCase()]" class="btn btn-dark">
             Ver Horarios
           </a>
         </div>
@@ -26,19 +24,70 @@
   </div>
 </div>
 }
-
-<div class="container-fluid mb-3">
-  <div class="card">
-    <div class="card-header">Feriados</div>
-    <div class="card-body">
-      <ul>
-        @for (holidays of data.holidaysDays; track $index) {
-        <li>
-          {{ holidays.day }} {{ holidays.month | titlecase }} -
-          {{ holidays.name | titlecase }}
-        </li>
-        }
-      </ul>
+<div class="container-fluid mb-4">
+  <div>
+    <h2 class="text-center">
+      FAQ
+    </h2>
+  </div>
+  <div class="accordion" id="faqAccordion">
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="headingOne">
+        <button class="accordion-button bg-dark text-white" type="button" data-bs-toggle="collapse"
+          data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          ¿Cómo sé cuáles son los días festivos?
+        </button>
+      </h2>
+      <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+        data-bs-parent="#faqAccordion">
+        <div class="accordion-body">
+          <p>Los días festivos son aquellos destacados como feriados en el calendario. Consulta la información en <a
+              target="_blank" href="https://www.feriadoschilenos.cl/2021-2030.html">Feriados Chile</a>.</p>
+        </div>
+      </div>
+    </div>
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="headingTwo">
+        <button class="accordion-button collapsed bg-dark text-white" type="button" data-bs-toggle="collapse"
+          data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          Los horarios no coinciden con los reales
+        </button>
+      </h2>
+      <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+        data-bs-parent="#faqAccordion">
+        <div class="accordion-body">
+          <p>Estos horarios han sido extraídos de las boleterías. Si un bus sale antes o después del horario indicado,
+            se debe a variaciones gestionadas por la empresa o el chofer.</p>
+        </div>
+      </div>
+    </div>
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="headingThree">
+        <button class="accordion-button collapsed bg-dark text-white" type="button" data-bs-toggle="collapse"
+          data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          Cambio de horario, ¿cómo puedo informar?
+        </button>
+      </h2>
+      <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+        data-bs-parent="#faqAccordion">
+        <div class="accordion-body">
+          <p>Si tienes información sobre un horario que no aparece en la lista, puedes comunicarlo en la sección de
+            contacto.</p>
+        </div>
+      </div>
+    </div>
+        <div class="accordion-item">
+      <h2 class="accordion-header" id="headingFour">
+        <button class="accordion-button collapsed bg-dark text-white" type="button" data-bs-toggle="collapse"
+          data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+          ¿Qué empresas están en la lista?
+        </button>
+      </h2>
+      <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
+        <div class="accordion-body">
+          <p>Por el momento se encuentran: Jara e Hijos y Vía Itata.</p>
+        </div>
+      </div>
     </div>
   </div>
 </div>
