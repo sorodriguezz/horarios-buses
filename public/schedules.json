@@ -198,6 +198,188 @@
           "to": "quirihue",
           "additional": "",
           "company": "via itata"
+        },
+        {
+          "time": "06:45",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "09:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "11:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "13:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "15:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "16:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "17:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "08:00",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "11:25",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "13:20",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "15:20",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "17:20",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "18:20",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "19:20",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "07:00",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "08:15",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "09:00",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "12:45",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "14:20",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "16:45",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "07:40",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "09:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "10:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "13:40",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "15:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "17:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
         }
       ]
     },
@@ -399,6 +581,188 @@
           "to": "quirihue",
           "additional": "",
           "company": "via itata"
+        },
+        {
+          "time": "06:45",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "09:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "11:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "13:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "15:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "16:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "17:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "08:00",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "11:25",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "13:20",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "15:20",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "17:20",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "18:20",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "19:20",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "07:00",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "08:15",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "09:00",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "12:45",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "14:20",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "16:45",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "07:40",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "09:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "10:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "13:40",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "15:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "17:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
         }
       ]
     },
@@ -600,6 +964,188 @@
           "to": "quirihue",
           "additional": "",
           "company": "via itata"
+        },
+        {
+          "time": "06:45",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "09:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "11:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "13:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "15:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "16:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "17:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "08:00",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "11:25",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "13:20",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "15:20",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "17:20",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "18:20",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "19:20",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "07:00",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "08:15",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "09:00",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "12:45",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "14:20",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "16:45",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "07:40",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "09:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "10:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "13:40",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "15:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "17:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
         }
       ]
     },
@@ -801,6 +1347,188 @@
           "to": "quirihue",
           "additional": "",
           "company": "via itata"
+        },
+        {
+          "time": "06:45",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "09:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "11:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "13:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "15:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "16:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "17:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "08:00",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "11:25",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "13:20",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "15:20",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "17:20",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "18:20",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "19:20",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "07:00",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "08:15",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "09:00",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "12:45",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "14:20",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "16:45",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "07:40",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "09:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "10:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "13:40",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "15:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "17:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
         }
       ]
     },
@@ -1002,6 +1730,188 @@
           "to": "quirihue",
           "additional": "",
           "company": "via itata"
+        },
+        {
+          "time": "06:45",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "09:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "11:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "13:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "15:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "16:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "17:50",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "coelemu",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "08:00",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "11:25",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "13:20",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "15:20",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "17:20",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "18:20",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "19:20",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "07:00",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "08:15",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "09:00",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "12:45",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "14:20",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "16:45",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "07:40",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "09:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "10:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "13:40",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "15:15",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "17:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
         }
       ]
     },
@@ -1161,6 +2071,90 @@
           "to": "quirihue",
           "additional": "",
           "company": "via itata"
+        },
+        {
+          "time": "07:00",
+          "from": "chillán",
+          "to": "coelemu",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "09:50",
+          "from": "chillán",
+          "to": "coelemu",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "16:50",
+          "from": "chillán",
+          "to": "coelemu",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "08:10",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "11:25",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "18:20",
+          "from": "quirihue",
+          "to": "coelemu",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "07:30",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "09:00",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "12:45",
+          "from": "coelemu",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "08:20",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "10:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
+        },
+        {
+          "time": "13:40",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "jara e hijos"
         }
       ]
     },
@@ -1341,13 +2335,6 @@
           "company": "via itata"
         }
       ]
-    }
-  ],
-  "holidaysDays": [
-    {
-      "day": "01",
-      "month": "enero",
-      "name": "año nuevo"
     }
   ]
 }
