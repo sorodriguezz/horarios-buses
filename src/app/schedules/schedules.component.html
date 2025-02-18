@@ -9,7 +9,7 @@
 
 <div class="container-fluid mt-3">
   <select class="form-select mb-2" [(ngModel)]="filterCompany">
-    <option value="">Todas las companies</option>
+    <option value="">Todos</option>
     <option *ngFor="let company of uniqueCompanies" [value]="company">{{ company | titlecase }}</option>
   </select>
   <div class="d-flex">
@@ -44,7 +44,6 @@
   </a>
 </div>
 
-<!-- Botón flotante para volver arriba -->
 <button 
   *ngIf="showScrollButton" 
   (click)="scrollToTop()" 
