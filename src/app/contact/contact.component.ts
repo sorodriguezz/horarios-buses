@@ -2,7 +2,7 @@ import { Component, inject } from '@angular/core';
 import { FormBuilder, ReactiveFormsModule, Validators } from '@angular/forms';
 import emailjs from 'emailjs-com';
 import { CommonConstant } from '../constants/common';
-import { RouterModule } from '@angular/router';
+import { Router, RouterModule } from '@angular/router';
 import Swal from 'sweetalert2';
 
 @Component({
@@ -13,12 +13,13 @@ import Swal from 'sweetalert2';
 })
 export class ContactComponent {
   private formBuilder = inject(FormBuilder);
+  private router = inject(Router);
 
   public form = this.formBuilder.group({
     fromName: ['', [Validators.required, Validators.maxLength(100)]],
     toName: [CommonConstant.TO_NAME_DEFAULT],
     message: ['', [Validators.required, Validators.maxLength(200)]],
-    email: ['', [Validators.required, Validators.maxLength(100)]]
+    email: ['', [Validators.required, Validators.maxLength(100), Validators.email]]
   });
 
 
@@ -31,6 +32,8 @@ export class ContactComponent {
       message: formContact.message.value,
       reply_to: formContact.email.value
     };
+
+    this.form.reset();
 
     try {
       const respEmail = await emailjs.send(
@@ -60,8 +63,7 @@ export class ContactComponent {
       });
       console.log(error);
     } finally {
-      this.form.reset();
+      this.router.navigate(['/']);
     }
   }
-
 }
