@@ -4647,6 +4647,160 @@
           "to": "concepción",
           "additional": "coelemu",
           "company": "maga bus"
+        },
+        {
+          "time": "06:30",
+          "from": "chillán",
+          "to": "cobquecura",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "09:00",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "ninhue/quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "12:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "13:30",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "ninhue/quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "15:00",
+          "from": "chillán",
+          "to": "cobquecura",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "15:30",
+          "from": "chillán",
+          "to": "quirihue",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "16:30",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "ninhue/quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "19:15",
+          "from": "chillán",
+          "to": "buchupureo",
+          "additional": "quirihue/cobquecura",
+          "company": "petoch"
+        },
+        {
+          "time": "07:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "08:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "09:30",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "10:40",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "entra a ninhue",
+          "company": "petoch"
+        },
+        {
+          "time": "15:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "14:00",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "17:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "18:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "06:30",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "08:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "10:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "13:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "16:45",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "18:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
         }
       ]
     },
@@ -4792,6 +4946,41 @@
           "to": "concepción",
           "additional": "coelemu",
           "company": "maga bus"
+        },
+        {
+          "time": "16:30",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "16:45",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "17:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "18:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "18:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
         }
       ]
     },
@@ -4937,6 +5126,41 @@
           "to": "concepción",
           "additional": "coelemu",
           "company": "maga bus"
+        },
+        {
+          "time": "16:30",
+          "from": "buchupureo",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "16:45",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "17:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
+        },
+        {
+          "time": "18:00",
+          "from": "cobquecura",
+          "to": "chillán",
+          "additional": "quirihue",
+          "company": "petoch"
+        },
+        {
+          "time": "18:50",
+          "from": "quirihue",
+          "to": "chillán",
+          "additional": "",
+          "company": "petoch"
         }
       ]
     }
