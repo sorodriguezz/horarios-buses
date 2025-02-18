@@ -3,6 +3,7 @@ import { FormBuilder, ReactiveFormsModule, Validators } from '@angular/forms';
 import emailjs from 'emailjs-com';
 import { CommonConstant } from '../constants/common';
 import { RouterModule } from '@angular/router';
+import Swal from 'sweetalert2';
 
 @Component({
   selector: 'app-contact',
@@ -31,14 +32,36 @@ export class ContactComponent {
       reply_to: formContact.email.value
     };
 
-    const respEmail = await emailjs.send(
-      CommonConstant.SERVICE_KEY,
-      CommonConstant.TEMPLATE_KEY,
-      templateParams,
-      CommonConstant.API_PUBLIC_KEY
-    );
+    try {
+      const respEmail = await emailjs.send(
+        CommonConstant.SERVICE_KEY,
+        CommonConstant.TEMPLATE_KEY,
+        templateParams,
+        CommonConstant.API_PUBLIC_KEY
+      );
 
-    console.log(respEmail);
+      if (respEmail.status === 200) {
+        console.log(respEmail);
+        Swal.fire({
+          position: "top-end",
+          icon: "success",
+          title: "¡Email enviado!",
+          showConfirmButton: false,
+          timer: 1500
+        });
+      }
+    } catch (error) {
+      Swal.fire({
+        position: "top-end",
+        icon: "error",
+        title: "Error al enviar",
+        showConfirmButton: false,
+        timer: 1500
+      });
+      console.log(error);
+    } finally {
+      this.form.reset();
+    }
   }
 
 }
