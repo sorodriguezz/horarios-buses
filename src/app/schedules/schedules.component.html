@@ -7,30 +7,48 @@
   </div>
 </div>
 
-@if(data.schedules.length){
 <div class="container-fluid mt-3">
+  <select class="form-select mb-2" [(ngModel)]="filterCompany">
+    <option value="">Todas las companies</option>
+    <option *ngFor="let company of uniqueCompanies" [value]="company">{{ company | titlecase }}</option>
+  </select>
+  <div class="d-flex">
+    <input type="time" class="form-control mb-2 me-2" placeholder="Inicio" [(ngModel)]="filterStartTime">
+    <input type="time" class="form-control mb-2" placeholder="Fin" [(ngModel)]="filterEndTime">
+  </div>
+  <div class="text-center">
+    <button class="btn btn-secondary btn-md mt-2" (click)="resetFilters()">Limpiar filtros</button>
+  </div>
+</div>
+
+<div class="container-fluid mt-3" *ngIf="filteredSchedule.length">
   <div class="row">
-    @for (day of scheduleDay.schedule; track $index) {
-    <div class="col-sm-6 col-md-4 col-lg-3 mb-3">
+    <div class="col-sm-6 col-md-4 col-lg-3 mb-3" *ngFor="let day of filteredSchedule; index as i">
       <div class="card">
         <div class="card-header text-center bg-dark text-white">
           {{ day.time }}
         </div>
         <div class="card-body">
           <p class="h2 text-center">{{ day.from | titlecase }} ➟ {{ day.to | titlecase }}</p>
-          <p class="text-center text-muted">{{ day.company | titlecase }}
-          </p>
+          <p class="text-center text-muted">{{ day.company | titlecase }}</p>
           <span class="text-uppercase text-muted">{{ day.additional || '-' }}</span>
         </div>
       </div>
     </div>
-    }
   </div>
 </div>
-}
 
 <div class="container-fluid text-center mb-3">
   <a [routerLink]="['/']" class="btn btn-dark">
     Volver a la página principal
   </a>
 </div>
+
+<!-- Botón flotante para volver arriba -->
+<button 
+  *ngIf="showScrollButton" 
+  (click)="scrollToTop()" 
+  class="btn btn-secondary btn-lg"
+  style="position: fixed; bottom: 10px; right: 10px; z-index: 1000;">
+  ↑
+</button>
