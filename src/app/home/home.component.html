@@ -1,0 +1,35 @@
+@if(data.schedules.length){
+<div class="container-fluid mt-3">
+    <div class="row">
+        @for (schedule of data.schedules; track $index) {
+        <div class="col-sm-6 col-md-4 col-lg-3 mb-3">
+            <div class="card">
+                <div class="card-header text-center">
+                    {{schedule.day | titlecase}}
+                </div>
+                <div class="card-body text-center">
+                    <a [routerLink]="['/schedule', schedule.day.toLowerCase()]" class="btn btn-dark">
+                        Ver Horarios
+                    </a>
+                </div>
+            </div>
+        </div>
+        }
+    </div>
+</div>
+}
+
+<div class="container-fluid">
+    <div class="card">
+        <div class="card-header">
+            Feriados
+        </div>
+        <div class="card-body">
+            <ul>
+                @for (holidays of data.holidaysDays; track $index) {
+                <li>{{holidays.day}} {{holidays.month | titlecase}} - {{holidays.name | titlecase}}</li>
+                }
+            </ul>
+        </div>
+    </div>
+</div>

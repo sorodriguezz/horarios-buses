@@ -1,0 +1,154 @@
+{
+    "schedules": [
+        {
+            "day": "lunes",
+            "schedule": [
+                {
+                    "time": "06:00",
+                    "from": "quirihue",
+                    "to": "chillán",
+                    "additional": "",
+                    "company": "via itata"
+                },
+                {
+                    "time": "06:10",
+                    "from": "quirihue",
+                    "to": "chillán",
+                    "additional": "entra a ninhue",
+                    "company": "via itata"
+                },
+                {
+                    "time": "06:30",
+                    "from": "quirihue",
+                    "to": "chillán",
+                    "additional": "entra a ninhue",
+                    "company": "via itata"
+                }
+            ]
+        },
+        {
+            "day": "martes",
+            "schedule": [
+                {
+                    "time": "06:00",
+                    "from": "quirihue",
+                    "to": "chillán",
+                    "additional": "",
+                    "company": "via itata"
+                },
+                {
+                    "time": "06:10",
+                    "from": "quirihue",
+                    "to": "chillán",
+                    "additional": "entra a quirihue",
+                    "company": "via itata"
+                }
+            ]
+        },
+        {
+            "day": "miércoles",
+            "schedule": [
+                {
+                    "time": "06:00",
+                    "from": "quirihue",
+                    "to": "chillán",
+                    "additional": "",
+                    "company": "via itata"
+                },
+                {
+                    "time": "06:10",
+                    "from": "quirihue",
+                    "to": "chillán",
+                    "additional": "entra a quirihue",
+                    "company": "via itata"
+                }
+            ]
+        },
+        {
+            "day": "jueves",
+            "schedule": [
+                {
+                    "time": "06:00",
+                    "from": "quirihue",
+                    "to": "chillán",
+                    "additional": "",
+                    "company": "via itata"
+                },
+                {
+                    "time": "06:10",
+                    "from": "quirihue",
+                    "to": "chillán",
+                    "additional": "entra a quirihue",
+                    "company": "via itata"
+                }
+            ]
+        },
+        {
+            "day": "viernes",
+            "schedule": [
+                {
+                    "time": "06:00",
+                    "from": "quirihue",
+                    "to": "chillán",
+                    "additional": "",
+                    "company": "via itata"
+                },
+                {
+                    "time": "06:10",
+                    "from": "quirihue",
+                    "to": "chillán",
+                    "additional": "entra a quirihue",
+                    "company": "via itata"
+                }
+            ]
+        },
+        {
+            "day": "sábado",
+            "schedule": [
+                {
+                    "time": "06:00",
+                    "ruta": "Centro - Norte",
+                    "company": "TransporteMX"
+                }
+            ]
+        },
+        {
+            "day": "domingo",
+            "schedule": [
+                {
+                    "time": "06:00",
+                    "from": "quirihue",
+                    "to": "chillán",
+                    "additional": "",
+                    "company": "via itata"
+                },
+                {
+                    "time": "06:10",
+                    "from": "quirihue",
+                    "to": "chillán",
+                    "additional": "entra a quirihue",
+                    "company": "via itata"
+                }
+            ]
+        },
+        {
+            "day": "festivos",
+            "schedule": [
+                {
+                    "time": "06:00",
+                    "from": "quirihue",
+                    "to": "chillán",
+                    "additional": "",
+                    "company": "via itata"
+                }
+            ]
+        }
+    ],
+    "holidaysDays": [
+        {
+            "day": "01",
+            "month": "enero",
+            "name": "año nuevo"
+        }
+    ]
+}
